@@ -18,6 +18,9 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
+[![wakatime](https://wakatime.com/badge/user/783e3c49-2990-4ff5-ad52-a54bbd439162.svg)](https://wakatime.com/@783e3c49-2990-4ff5-ad52-a54bbd439162)
+
+
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyoung234&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyoung234&layout=compact)](https://github.com/jinyoung234/github-readme-stats) 

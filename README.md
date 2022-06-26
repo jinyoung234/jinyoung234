@@ -60,8 +60,13 @@ Vue                      1 repo              ██████░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<br><br>
-
+<br>
 ### My Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyoung234&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyoung234&layout=compact)](https://github.com/jinyoung234/github-readme-stats) 
-
+<div align="center">
+  <a>
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=jinyoung234&hide=contribs&show_icons=true&count_private=true&hide_border=true&theme=nord" />
+  </a>
+  <a>
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyoung234&layout=compact&hide_border=true&theme=nord" />
+  </a>
+</div>  

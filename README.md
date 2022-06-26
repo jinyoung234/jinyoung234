@@ -78,9 +78,9 @@ Vue                      1 repo              ██████░░░░░�
 
 <div align="center">
   <a>
-    <img align="center" height=185 src="https://github-readme-stats.vercel.app/api?username=jinyoung234&hide=contribs&show_icons=true&count_private=true&hide_border=true&theme=nord" />
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=jinyoung234&hide=contribs&show_icons=true&count_private=true&hide_border=true&theme=nord" />
   </a>
   <a>
-    <img align="center" height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyoung234&layout=compact&hide_border=true&theme=nord" />
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyoung234&layout=compact&hide_border=true&theme=nord" />
   </a>
 </div>  

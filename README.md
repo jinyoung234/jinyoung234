@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
+### My WakaTime
+
 [![wakatime](https://wakatime.com/badge/user/6022913d-82c1-4e80-8e0b-e41c9286fec8.svg)](https://wakatime.com/@6022913d-82c1-4e80-8e0b-e41c9286fec8)
 
 <!--START_SECTION:waka-->

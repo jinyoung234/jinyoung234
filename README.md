@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/6022913d-82c1-4e80-8e0b-e41c9286fec8.svg)](https://wakatime.com/@6022913d-82c1-4e80-8e0b-e41c9286fec8)
 
 <!--START_SECTION:waka-->
-[![jinyoung234's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinyoung234)](https://github.com/anuraghazra/github-readme-stats)
+[![jinyoung234's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinyoung234)](https://github.com/jinyoung234/github-readme-stats)
 <!--END_SECTION:waka-->
 
 <br><br>

@@ -18,8 +18,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
-[![jinyoung234's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinyoung234)]
-
+[![jinyoung234's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinyoung234)](https://github.com/jinyoung234/github-readme-stats)
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyoung234&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyoung234&layout=compact)](https://github.com/jinyoung234/github-readme-stats) 

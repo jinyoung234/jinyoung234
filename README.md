@@ -25,18 +25,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 62 Contributions in the Year 2022
- > 
-> 📦 8.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -60,25 +48,6 @@ Sunday       29 commits     ██████████████░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -87,14 +56,6 @@ HTML                     1 repo              ██████░░░░░�
 Vue                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/jinyoung234/jinyoung234/main/charts/bar_graph.png) 
-
-
- Last Updated on 26/06/2022 15:24:22 UTC
 <!--END_SECTION:waka-->
 
 <br><br>

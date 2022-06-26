@@ -21,3 +21,12 @@
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyoung234&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyoung234&layout=compact)](https://github.com/jinyoung234/github-readme-stats) 
+
+LOCALE: "ko"
+SHOW_LINES_OF_CODE: "True"
+SHOW_PROFILE_VIEWS: "False"
+SHOW_DAYS_OF_WEEK: "False"
+SHOW_SHORT_INFO: "False"
+SHOW_LOC_CHART: "False"
+SHOW_PROJECTS: "False"
+SHOW_LANGUAGE_PER_REPO: "False"

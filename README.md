@@ -35,7 +35,7 @@
 [![wakatime](https://wakatime.com/badge/user/6022913d-82c1-4e80-8e0b-e41c9286fec8.svg)](https://wakatime.com/@6022913d-82c1-4e80-8e0b-e41c9286fec8)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-227-blue)
 
@@ -109,7 +109,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jinyoung234/jinyoung234/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/06/2022 15:30:22 UTC
+ Last Updated on 28/06/2022 15:27:23 UTC
 <!--END_SECTION:waka-->
 
 ### My Github stats

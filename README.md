@@ -1,11 +1,13 @@
 # Hi! I'm jinyoung Son.
 
+[![wakatime](https://wakatime.com/badge/user/6022913d-82c1-4e80-8e0b-e41c9286fec8.svg)](https://wakatime.com/@6022913d-82c1-4e80-8e0b-e41c9286fec8)
 
 ### Languages
 
 <hr/>
 
-[![JavaScript]](https://www.ecma-international.org/publications-and-standards/standards/ecma-262) <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+[![JavaScript]](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 
 ### Frameworks & Libraries
@@ -25,23 +27,11 @@
 ### Now i'm Studying...
 <hr/>
 <!-- react -->
-[![React]](https://reactjs.org) [![Redux]](https://redux.js.org) [![Styled-Components]](https://styled-components.com) [![TypeScript]](https://www.typescriptlang.org)
+[![React]](https://reactjs.org)
+[![Redux]](https://redux.js.org)
+[![Styled-Components]](https://styled-components.com)
+[![TypeScript]](https://www.typescriptlang.org)
 
-
-### My WakaTime
-
-<hr/>
-
-[![wakatime](https://wakatime.com/badge/user/6022913d-82c1-4e80-8e0b-e41c9286fec8.svg)](https://wakatime.com/@6022913d-82c1-4e80-8e0b-e41c9286fec8)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2048%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-227-blue)
-
-
- Last Updated on 28/06/2022 15:27:23 UTC
-<!--END_SECTION:waka-->
 
 ### My Github stats
 

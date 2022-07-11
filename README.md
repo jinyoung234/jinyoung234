@@ -5,14 +5,14 @@
 
 <hr/>
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+[![JavaScript]](https://www.ecma-international.org/publications-and-standards/standards/ecma-262) <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 
 ### Frameworks & Libraries
 
 <hr/>
 
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+[![Vue]](https://vuejs.org)
 
 ### Tools
 
@@ -24,8 +24,8 @@
 
 ### Now i'm Studying...
 <hr/>
-<!-- javascript, vue.js, react -->
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<!-- react -->
+[![React]](https://reactjs.org) [![Redux]](https://redux.js.org) [![Styled-Components]](https://styled-components.com) [![TypeScript]](https://www.typescriptlang.org)
 
 
 ### My WakaTime

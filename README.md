@@ -6,15 +6,12 @@
 
 <hr/>
 
-[javascript]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 
 ### Frameworks & Libraries
 
 <hr/>
-
-[vue]: https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white
 
 ### Tools
 
@@ -27,14 +24,7 @@
 ### Now i'm Studying...
 <hr/>
 <!-- react -->
-[![React]](https://reactjs.org)
-[react]: https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white
-[![Redux]](https://redux.js.org)
-[redux]: https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white
-[![Styled-Components]](https://styled-components.com)
-[styled-components]: https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white
-[![TypeScript]](https://www.typescriptlang.org)
-[typescript]: https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 
 
 ### My Github stats

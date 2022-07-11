@@ -27,9 +27,13 @@
 ### Now i'm Studying...
 <hr/>
 <!-- react -->
+[![React]](https://reactjs.org)
 [react]: https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white
+[![Redux]](https://redux.js.org)
 [redux]: https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white
+[![Styled-Components]](https://styled-components.com)
 [styled-components]: https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white
+[![TypeScript]](https://www.typescriptlang.org)
 [typescript]: https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white
 
 

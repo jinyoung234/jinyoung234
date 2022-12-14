@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=jiny's%20github&fontAlign=53&fontAlignY=40&fontSize=50&color=0:6F38C5,80:87A2FB,100:87A2FB&fontColor=ffffff&animation=fadeIn)
 
-</div
+</div>
 
 <div align="center">
   

@@ -7,6 +7,8 @@
 
 <div align="center">
   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinyoung234%2Fjinyoung234&count_bg=%231993E2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
 [![wakatime](https://wakatime.com/badge/user/6022913d-82c1-4e80-8e0b-e41c9286fec8.svg)](https://wakatime.com/@6022913d-82c1-4e80-8e0b-e41c9286fec8)
   
 </div>

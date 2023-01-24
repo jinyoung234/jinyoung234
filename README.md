@@ -17,7 +17,6 @@
   
   
 [![Velog Badge](https://img.shields.io/badge/-Velog-11B48A?logo=vimeo&logoColor=white&style=flat-square&link=https://velog.io/@jinyoung234)](https://velog.io/@jinyoung234)
-[![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=Notion&logoColor=white&style=flat-square&link=https://www.notion.so/59e4255f6d5a42e0bd6fda3f287b60f1)](https://www.notion.so/59e4255f6d5a42e0bd6fda3f287b60f1)
 [![Blog](https://img.shields.io/badge/-Blog-512BD4?logoColor=white&style=flat-square&link=https://jinydev.site)](https://jinydev.site)  
 
 </div>

@@ -77,4 +77,11 @@
   <a>
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyoung234&layout=compact&hide_border=true&theme=nord" />
   </a>
-</div>  
+</div>
+
+---
+<div align="center">
+  <a href="https://solved.ac/jinyoung98a">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinyoung98a" />
+  </a>
+</div>

@@ -44,6 +44,6 @@
 
 <br/>  
     
-## 🙆‍♀️ Experiences
+## 🙆‍♀️ Open Source Experiences
 ### React Docs
 - [State as a snapshot](https://github.com/reactjs/ko.react.dev/pull/642) 번역 진행 <sub><sup>(2022.05)</sup></sub>

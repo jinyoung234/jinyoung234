@@ -40,10 +40,10 @@
 ## 💻 Team Projects 
   
 ### DND 8th
-- [Danverse](https://github.com/dnd-side-project/dnd-8th-1-frontend) - 온/오프라인으로 댄스팀 및 댄서가 연결되는 교류 플랫폼 <sub><sup>(2022.01 ~ 2022.03)</sup></sub>
+- [Danverse](https://github.com/dnd-side-project/dnd-8th-1-frontend) - 온/오프라인으로 댄스팀 및 댄서가 연결되는 교류 플랫폼 <sub><sup>(2023.01 ~ 2023.03)</sup></sub>
 
 <br/>  
     
 ## 🙆‍♀️ Open Source Experiences
 ### React Docs
-- [State as a snapshot](https://github.com/reactjs/ko.react.dev/pull/642) 번역 진행 <sub><sup>(2022.05)</sup></sub>
+- [State as a snapshot](https://github.com/reactjs/ko.react.dev/pull/642) 번역 진행 <sub><sup>(2023.05)</sup></sub>

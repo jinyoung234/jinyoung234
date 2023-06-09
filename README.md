@@ -48,3 +48,4 @@
 ### React Docs
     
 - [State as a snapshot](https://github.com/reactjs/ko.react.dev/commit/c3be46227ab03a9008f1fca06e7e6c88d617137a) 번역 진행 <sub><sup>(2023.05)</sup></sub>
+  - [첫 오픈 소스 기여 회고](https://velog.io/@jinyoung234/%EC%B2%AB-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%ED%9B%84%EA%B8%B0with-React.dev)

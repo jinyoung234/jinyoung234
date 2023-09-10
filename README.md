@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Velog Badge](https://img.shields.io/badge/-Velog-11B48A?logo=vimeo&logoColor=white&style=flat-square&link=https://velog.io/@jinyoung234)](https://velog.io/@jinyoung234)
-[![Blog](https://img.shields.io/badge/-Blog-512BD4?logoColor=white&style=flat-square&link=https://jinydev.site)](https://jinydev.site) [![Resume](https://img.shields.io/badge/-Resume-00AAFF?logoColor=white&style=flat-square&link=https://www.notion.so/da24196454e549248b93092579997692)](https://www.notion.so/da24196454e549248b93092579997692) [![Portfolio](https://img.shields.io/badge/-Portfolio-66FF33?logoColor=white&style=flat-square&link=https://www.notion.so/77854e3064ae4cb38681dbf3f7b86f79)](https://www.notion.so/77854e3064ae4cb38681dbf3f7b86f79)  
+[![Blog](https://img.shields.io/badge/-Blog-512BD4?logoColor=white&style=flat-square&link=https://jinydev.site)](https://jinydev.site) [![Resume](https://img.shields.io/badge/-Resume-00AAFF?logoColor=white&style=flat-square&link=https://www.notion.so/da24196454e549248b93092579997692)](https://shelled-operation-d0b.notion.site/da24196454e549248b93092579997692?pvs=4) [![Portfolio](https://img.shields.io/badge/-Portfolio-66FF33?logoColor=white&style=flat-square&link=https://www.notion.so/77854e3064ae4cb38681dbf3f7b86f79)](https://shelled-operation-d0b.notion.site/77854e3064ae4cb38681dbf3f7b86f79?pvs=4)  
 
 </div>
 
